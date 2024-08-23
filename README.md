@@ -1,4 +1,4 @@
-#Projeto de curso HTML, CSS e JavaScript
+# Projeto de curso HTML, CSS e JavaScript
 
 Neste projeto aprendo pouco sobre a parte teorica das 3 linguagens.
 
